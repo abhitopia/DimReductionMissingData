@@ -2,3 +2,4 @@
 .idea
 *.csv
 *.pyc
+*.iml
